@@ -1,3 +1,5 @@
+# it has not ben teste 
+
 Overview (one-line)
 
 Run an Arch (or other) distrobox that has nfcpy and libnfc/pcsc installed; the container reads NFC tags and uses distrobox-host-exec (or a fallback to distrobox-enter) to open steam://... on the host so Flatpak/native Steam launches the game.
